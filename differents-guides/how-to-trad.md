@@ -61,8 +61,8 @@ Il a tendance à exprimer le fait que la personne qui parle est sûre d'elle, ma
 {% endhint %}
 
 _Exemple :_ \
-I'm definitely sure about it : J'en suis absolument sûr / j'en suis certaint\
-Mais JAMAIS "j'en suis définitivement sûr" !\
+I'm definitely sure about it : J'en suis absolument sûr / j'en suis certain\
+Mais JAMAIS "j'en suis définitivement sûr" ! (c'est correct en fançais mais moche, lourd et littéral)\
 \
 _Exemple 2:_\
 "Yes, definitely." => **TRÈS RAREMENT** "oui, définitivement."&#x20;
