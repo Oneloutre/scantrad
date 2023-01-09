@@ -16,6 +16,10 @@ C'est du check que dépend en majorité la crédibilité d'une team de scantrad;
 Il n'y a aucun tutoriel pour check. À part le Bescherelle, et vous vous doutez bien que je ne vais pas réécrire le bescherelle ici.\
 Je me contenterai donc de poster les erreurs les plus communes, ainsi que quelques astuces.
 
+{% hint style="success" %}
+Ne pas hésiter à reformuler une phrase qui vous paraît étrange / lourde / mal formulée !
+{% endhint %}
+
 ## #1 • Les fautes les plus communes.
 
 ### Règle numéro 1 : les COD.
@@ -62,3 +66,4 @@ Ici, on peut utiliser l'indicatif, le subjonctif (parce qu'on a le pronom relati
 \
 \- Si on est dans le cas d'une certitude, c'est de l'**indicatif** _"Je cherche quelqu'un à qui on peut parler anglais"_ => On admet l'existence de cette personne.\
 \- Si parcontre on est dans un contexte hypothétique, c'est du **subjonctif** ou du **conditionnel** _"Je cherche quelqu'un à qui on **puisse** / **pourait** parler anglais."_ => Cette personne est hypothétique, on n'est pas sûr de trouver une telle personne.
+
