@@ -41,6 +41,10 @@ Certaines teams fr les utilisent à outrance, oui, mais c'est une infâmie.<img 
 ****Autre chose que Canard et moi avons pu remarquer, c'est que les traducteurs restent souvent cantonnés à leurs bulles, sans s'intéresser aux actions en cours. Chaque action qui se déroule peut influer sur la façon de parler du personnage ! De plus, le statut social d'un personnage peut changer du tout au tout sa façon de parler, c'est très important de garder ça à l'esprit !\
 
 
+{% hint style="info" %}
+Tip : Lire l'oeuvre et faire attention au contexte permet une meilleure traduction !
+{% endhint %}
+
 Un conseil pour gagner du temps quand vous butez sur une tournure de phrase ou une expression: ne vous prenez pas la tête trop longtemps ! <img src="https://cdn.discordapp.com/emojis/703311839815139499.webp?size=44&#x26;quality=lossless" alt=":risitas_sueur:" data-size="line"> Si ça devient trop galère, traduisez mot à mot ou mettez ce que vous voulez à la place (insulte, point de suspension...etc) et continuez votre trad. Une fois terminé, relisez-vous. On comprend souvent mieux le sens d'une phrase ou comment la tourner après une relecture complète. De toute façon, vous avez toujours un check qui vous relit aha <img src="https://cdn.discordapp.com/emojis/717716539608137839.webp?size=44&#x26;quality=lossless" alt=":issou:" data-size="line"> Il arrive aussi que 2/3 pages plus loin, on ait la réponse à notre question grâce à une autre phrase ou une situation particulière donc, parfois, lire la vUS avant de trad peut être une bonne solution pour gagner du temps.
 
 \
