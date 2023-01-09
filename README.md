@@ -33,3 +33,6 @@
 [la-noblesse.md](differents-guides/la-noblesse.md)
 {% endcontent-ref %}
 
+
+
+{% embed url="https://discord.gg/origines" %}

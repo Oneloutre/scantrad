@@ -67,3 +67,5 @@ Ici, on peut utiliser l'indicatif, le subjonctif (parce qu'on a le pronom relati
 \- Si on est dans le cas d'une certitude, c'est de l'**indicatif** _"Je cherche quelqu'un à qui on peut parler anglais"_ => On admet l'existence de cette personne.\
 \- Si parcontre on est dans un contexte hypothétique, c'est du **subjonctif** ou du **conditionnel** _"Je cherche quelqu'un à qui on **puisse** / **pourait** parler anglais."_ => Cette personne est hypothétique, on n'est pas sûr de trouver une telle personne.
 
+{% embed url="https://discord.gg/origines" %}
+

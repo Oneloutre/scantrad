@@ -84,3 +84,5 @@ Merci à Rousse pour sa contribution.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/domestiques.png" alt=""><figcaption><p>diagramme représentant les différents postes dans un château.</p></figcaption></figure>
+
+{% embed url="https://discord.gg/origines" %}
