@@ -51,6 +51,18 @@ Lorsqu'une phrase où quelqu'un est en train de crier finit par des points de su
 Les sites que je vous ai mis plus haut (linguee et reverso) sont aussi utiles quand on ne comprend pas un mot ou une expression et puisque certaines teams US ont parfois une trad approximative (voir certaines qui oublient des lettres ou des mots, parfois même des phrases entières !) il vaut mieux les utiliser un maximum tant qu'on n'est pas complètement à l'aise avec l'anglais (même les bilingues l'utilisent pour certaines de leurs trad). _**Surtout évitez le google trad à outrance qui traduit mot à mot**_ (ce qui donne parfois des phrases très rigolotes mais sans aucun rappport avec la choucroute).\
 Et si vous avez un souci et que vous n'avez aucun amis anglais, venez plutôt me demander ou à un autre trad.
 
+{% hint style="danger" %}
+Bannissez moi définitivement "**définitivement**" de votre lexique ! "Definitely" ne se traduit que très rarement par définitivement.\
+Il a tendance à exprimer le fait que la personne qui parle est sûre d'elle, mais on n'en a que très rarement besoin, et ça peut tout à fait dégager.
+{% endhint %}
+
+_Exemple :_ \
+I'm definitely sure about it : J'en suis absolument sûr / j'en suis certaint\
+Mais JAMAIS "j'en suis définitivement sûr" !\
+\
+_Exemple 2:_\
+"Yes, definitely." => **TRÈS RAREMENT** "oui, définitivement."&#x20;
+
 ## #4 • Soyons logiques&#x20;
 
 \
